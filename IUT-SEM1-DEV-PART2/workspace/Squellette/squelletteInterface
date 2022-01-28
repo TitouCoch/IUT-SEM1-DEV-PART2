@@ -1,0 +1,37 @@
+/**  MODULE  
+     
+     -------------------------------------------------------
+But :
+    Mettre à dispositon d'un programmeur des sous-programmes applicables aux ...
+ 
+    
+    Description
+---------
+
+ Date de dernière modification : xxxx
+ Auteur : xxx
+ Remarques : Code conforme aux spécification précisées dans le sujet R1.01-partie2 - td n°2
+*/
+
+#ifndef nom.h
+#define nom.h
+
+#include <iostream>
+using namespace std;
+
+//Type
+
+//Constante
+
+//Operateur de comparaison
+
+//Operateur binaire
+
+//Autre operateur
+
+//Accesseur
+
+//Entrée-Sortie
+
+
+#endif
